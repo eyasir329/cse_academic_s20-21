@@ -2,7 +2,7 @@
 
 Course Teacher
 
-- Ratan Sir
+- Ratan Kumer Chandro
 
 Reference Books
 

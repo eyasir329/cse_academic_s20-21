@@ -2,7 +2,7 @@
 
 Course Teacher
 
-- Md. Babul Chandra Roy, Associate Professor, Dept. of Physics, Netrakona Government College
+- Md. Babul Chandra Roy
 
 Reference Books
 
