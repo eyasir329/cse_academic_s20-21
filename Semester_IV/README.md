@@ -4,7 +4,7 @@
 - [CSE-2202: Design and Analysis of Algorithms](./cse_2202/)
 - [CSE-2203: Data and Telecommunication](./cse_2203/)
 - [CSE-2204: Computer Architecture and Organization](./cse_2204/)
-- [CSE-2205: Introduction to Mechatronics](./cse_2205/)
+- [EEE-2205: Introduction to Mechatronics](./eee_2205/)
 - CSE-2211: Database Management Systems Lab
 
   What I learn in database (MySQL), all documented here in
