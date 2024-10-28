@@ -15,7 +15,8 @@ Reference Books
 
     2D and 3D vectors, Dot and Cross Products, Equations for lines, planes, cylinders and quadric surfaces,
 
-[Vector](./slides/MATH-3105%20Lec01%20Vector.pdf)
+[Vector](./slides/MATH-3105%20Lec01%20Vector.pdf)<br>
+[Vector Class Note](./slides/CSE-3105%20Vector.pdf)
 
 ### Vector Functions:
 
