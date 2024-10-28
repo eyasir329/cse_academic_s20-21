@@ -1,4 +1,4 @@
-## CSE-2201: Database Management Systems
+## CSE-2202: Design and Analysis of Algorithms
 
 Course Teacher
 

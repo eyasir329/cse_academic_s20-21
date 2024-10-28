@@ -18,7 +18,7 @@
 
 ### Course Outline:
 
-![semester3](./extra/outline.png)
+![semester4](./extra/outline.png)
 
 ### Details Syllabus of my 4th semester:
 
