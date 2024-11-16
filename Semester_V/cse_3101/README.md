@@ -11,11 +11,19 @@ Reference Books
 
 ##
 
+Other Sources,
+
+- [CS 456/656: Computer Networks (Fall 2024) Slide](https://student.cs.uwaterloo.ca/~cs456/)<br>
+  Computer Networking, A Top-Down Approach, James Kurose & Keith Ross, Pearson, 8th Edition (7th Edition is also fine).
+- [CS 456/656 Class Note](https://github.com/intergrals/CS456)
+- [NOC:Computer Networks and Internet Protocol, IIT Kharagpur
+  ](https://nptel.ac.in/courses/106105183)
+
 ### Introduction to Computer Networks:
 
     Protocol Layers, Network performance metrics (delay, loss, throughput), Circuit and Packet Switching.
 
-[Introduction](./slides/Lec_02.ppt)
+[Introduction](./slides/Lec_01.pdf)
 
 ### Application Layer:
 
@@ -31,7 +39,8 @@ Reference Books
 
     Overview of IPv4 and IPv6, IP Addressing, NAT, Routing Algorithms (RIP, OSPF, BGP).
 
-[IP Addressing](./slides/Lec_03.ppt)
+[Introduction and Network Layer](./slides/Lec_02.pdf)<br>
+[IP Addressing](./slides/Lec_03.pdf)
 
 ### Wireless Networks:
 

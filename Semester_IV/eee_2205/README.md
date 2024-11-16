@@ -38,7 +38,7 @@ Reference Books
     light, temperature, fluid Level and flow, force, etc.
 
 [Lec-2: Fundamentals of Mechatronics Part 2 (Sensors and Transducers Bascis)](./slides/CSE-2205%20Lec%202.pdf)<br>
-[Lec-3: Introduction to Mechatronics Part 3 (Sensor Characteristics)](./slides/CSE-2205%20Lec%203.pdf)
+[Lec-3: Introduction to Mechatronics Part 3 (Sensor Characteristics)](./slides/CSE-2205%20Lec%203.pdf)<br>
 [Lec-7: Displacement Sensors](./slides/CSE-2205%20Lec%207.pdf)<br>
 [Lec-8: Proximity Sensors](./slides/CSE-2205%20Lec%208.pdf)<br>
 [Lec-9: Motion and Sound Sensors](./slides/CSE-2205%20Lec%209.pdf)<br>

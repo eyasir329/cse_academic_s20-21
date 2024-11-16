@@ -29,7 +29,16 @@ Reference Books
 [Equivalence of DFA & NFA](./slides/Lecture%2003.pptx.pdf)<br>
 [Regular Expressions and DFAs](./slides/Lecture%2004.ppt.pdf)<br>
 [Regular Expression](./slides/Lecture%2005.pptx.pdf)<br>
+
 [Automata Theory](./slides/Lecture%2007.pptx.pdf)
+
+Extra.
+
+- DFA
+
+- NFA
+
+- Regular Expression
 
 ### Computability Theory:
 
