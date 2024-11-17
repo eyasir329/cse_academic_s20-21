@@ -8,14 +8,13 @@ Course Teacher
 Reference Books
 
 - COMPUTER NETWORKS, FIFTH EDITION by ANDREW S. TANENBAUM, DAVID J. WETHERALL
+- Computer Networking, A Top-Down Approach, James Kurose & Keith Ross, Pearson, 8th Edition
 
 ##
 
 Other Sources,
 
-- [CS 456/656: Computer Networks (Fall 2024) Slide](https://student.cs.uwaterloo.ca/~cs456/)<br>
-  Computer Networking, A Top-Down Approach, James Kurose & Keith Ross, Pearson, 8th Edition (7th Edition is also fine).
-- [CS 456/656 Class Note](https://github.com/intergrals/CS456)
+- [CS 456/656: Computer Networks (Fall 2024) Slide](https://student.cs.uwaterloo.ca/~cs456/) - [Class_Note](https://github.com/intergrals/CS456)
 - [NOC:Computer Networks and Internet Protocol, IIT Kharagpur
   ](https://nptel.ac.in/courses/106105183)
 
@@ -29,7 +28,13 @@ Other Sources,
 
     Protocol overview of HTTP, FTP, Email, DNS, SNMP, P2P Networks.
 
-[Application Layer](./slides/Lec_06.pptx)
+[Application Layer](./slides/Lec_06.pdf)
+
+extra:
+
+[DNS IIT](https://manaskhatua.github.io/courses/CS321/CN_Lec6_4_DNS.pdf)<br>
+[DNS CMU](https://www.cs.cmu.edu/~srini/15-441/S10/lectures/13-DNS.pdf)<br>
+https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/ <br>
 
 ### Transport Layer:
 
