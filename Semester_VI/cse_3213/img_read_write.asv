@@ -1,0 +1,11 @@
+%img read
+originalImg = imread('.\..\cse_academic_s20-21\Semester_VI\cse_3213\img\hibiscus_flower.jpg');
+
+%img display
+figure;
+imshow(originalImg);
+title('Original Color Image');
+
+%check img property
+disp(['image size: ',num2str(size(originalImg))]);%heightxwidth
+disp(['image class: ',class(originalImg)]);
