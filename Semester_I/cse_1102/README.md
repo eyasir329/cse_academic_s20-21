@@ -1,81 +1,112 @@
-## CSE-1102: Discrete Mathematics
+## 📘 CSE-1102: Discrete Mathematics
 
-Course Teacher
+### 👩‍🏫 Course Teacher
 
-- Mala Rani Barman, Lecturer, Dept. of CSE,
-  Sheikh Hasina University
+**Mala Rani Barman**  
+Lecturer, Dept. of CSE, Sheikh Hasina University
 
-Reference Books
+---
 
-- SCHAUM’S
-  OUTLINE,
-  **DISCRETE
-  MATHEMATICS** (Third Edition)
+### 📚 Reference Book
 
-##
+- **SCHAUM’S OUTLINE: Discrete Mathematics** (3rd Edition)
 
-### Logics and Proofs
+---
 
-    Propositional Logic, Applications of Propositional
-    Logic, Propositional Equivalences, Predicates and Quantifiers, Nested
-    Quantifiers, Rules of Inference, Introduction to Proofs.
+### 🧠 Topics Covered
 
-- [Propositions, Propositional Equivalences](./slides/Chapter_02.pdf)
+#### 🔍 Logics and Proofs
 
-- [Rules of Inference](./slides/Chapter_03.pdf)
+- Propositional Logic
+- Applications of Propositional Logic
+- Propositional Equivalences
+- Predicates and Quantifiers
+- Nested Quantifiers
+- Rules of Inference
+- Introduction to Proofs
 
-### Set, Function, Sequence, Summation and Matrix
+📄 [Chapter 02: Propositions, Propositional Equivalences](./slides/Chapter_02.pdf)  
+📄 [Chapter 03: Rules of Inference](./slides/Chapter_03.pdf)
 
-    Sets, Set Operations,
-    Functions, Sequences and Summations, Zero – One Matrices, Boolean
-    Product.
+---
 
-- [Intro, Set Theory, Inclusion-Exclusion](./slides/Chapter_01.pdf)
+#### 📚 Set, Function, Sequence, Summation, and Matrix
 
-### Number Theory
+- Sets & Set Operations
+- Functions
+- Sequences and Summations
+- Zero–One Matrices
+- Boolean Product
 
-    Divisibility and Modular Arithmetic, Integer
-    Representations and Algorithms, Primes and Greatest Common Divisors,
-    Modular Exponentiation.
+📄 [Chapter 01: Introduction, Set Theory, Inclusion-Exclusion](./slides/Chapter_01.pdf)
 
-### Induction
+---
 
-    Mathematical Induction.
+#### 🔢 Number Theory
 
-- [Mathematical Induction](./slides/Chapter_05.pdf)
+- Divisibility and Modular Arithmetic
+- Integer Representations and Algorithms
+- Primes and GCD
+- Modular Exponentiation
 
-### Counting
+---
 
-    The Basics of Counting, the Pigeonhole Principle, Permutations and
-    Combinations, Binomial Coefficients and Identities, Generalized
-    Permutations and Combinations.
+#### 🧮 Mathematical Induction
 
-- [Counting](./slides/Chapter_06.pdf)
+📄 [Chapter 05: Mathematical Induction](./slides/Chapter_05.pdf)
 
-### Recursion
+---
 
-    Applications of Recurrence Relations.
+#### 🔢 Counting
 
-### Inclusion Exclusion
+- Basics of Counting
+- Pigeonhole Principle
+- Permutations and Combinations
+- Binomial Coefficients and Identities
+- Generalized Permutations and Combinations
 
-    Inclusion – Exclusion.
+📄 [Chapter 06: Counting](./slides/Chapter_06.pdf)
 
-### Relations
+---
 
-    Relations and Their Properties, Representing Relations.
+#### 🔁 Recursion
 
-- [Relations](./slides/Chapter_04.pdf)
+- Applications of Recurrence Relations
 
-### Graphs
+---
 
-    Graphs and Graph Models, Graph Terminology and Special Types of
-    Graph, Euler and Hamilton Paths.
+#### ➕ Inclusion-Exclusion
 
-### Trees
+- Principle of Inclusion–Exclusion
 
-    Introduction to Trees.
+---
 
-#### Syllabus Preview
+#### 🔗 Relations
 
-![sy1](../extra/sy1.png)
+- Relations and Their Properties
+- Representing Relations
+
+📄 [Chapter 04: Relations](./slides/Chapter_04.pdf)
+
+---
+
+#### 🕸️ Graphs
+
+- Graphs and Graph Models
+- Terminologies & Special Types
+- Euler & Hamilton Paths
+
+---
+
+#### 🌲 Trees
+
+- Introduction to Trees
+
+---
+
+### 🗂️ Syllabus Preview
+
+![sy1](../extra/sy1.png)  
 ![sy2](../extra/sy2.png)
+
+---

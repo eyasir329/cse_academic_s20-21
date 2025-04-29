@@ -1,61 +1,100 @@
-## CSE-3104: Finite Language, Automata, and Computability
+## 🧠 CSE-3104: Finite Language, Automata, and Computability
 
-Course Teacher
+### 👨‍🏫 Course Teacher
 
-- Md. Anwarul Islam, Lecturer, <br>Dept. of CSE,
-  Sheikh Hasina University
+**Md. Anwarul Islam**  
+_Lecturer_, Dept. of CSE, Sheikh Hasina University
 
-Reference Books
+---
 
-- Introduction to Automata Theory Languages and Computation by John E. Hopcroft (2nd Edition)
-- Automata, Languages and Computation, THIRD EDITION, K.l.P. MISHRA
+### 📚 Reference Books
 
-##
+- **_Introduction to Automata Theory, Languages, and Computation_** – _John E. Hopcroft (2nd Edition)_
+- **Automata, Languages and Computation (3rd Edition)** – _K.L.P. Mishra_
 
-### Automata and Language Theory:
+---
 
-    Finite Automata (FA) and Regular Expressions: Equivalence of Deterministic FA, Non-Deterministic FA
-    and Regular Expressions; Properties of Regular Languages: Pumping
-    lemma and its application, Closure and Decision properties of Regular
-    Languages; Equivalence and Minimization of DFAs. FA with output -
-    Mealy machines and Moore machines, The Chomsky Hierarchy, Context
-    Free Grammars (CFGs) and Languages (CFLs), Chomsky and Greibach
-    Normal Form; Push Down Automata (PDA), Equivalence of PDAs & CFLs;
-    Properties of CFLs: Pumping Lemma, Closure and Decision properties,
-    CYK algorithm.
+### 📒 Class Resources
 
-[Automata Theory, Grammars and Languages](./slides/Lecture%2001.ppt.pdf)<br>
-[DFA and NFA](./slides/Lecture%2002.pptx.pdf)<br>
-[Equivalence of DFA & NFA](./slides/Lecture%2003.pptx.pdf)<br>
-[Regular Expressions and DFAs](./slides/Lecture%2004.ppt.pdf)<br>
-[Regular Expression](./slides/Lecture%2005.pptx.pdf)<br>
+- [🗂️ Class Notes & Slides (Google Drive)](https://drive.google.com/file/d/10SvaA9rsQ8tFtx_EKzliGjyBVlnkX4Vg/view?usp=drive_link)
 
-[Automata Theory](./slides/Lecture%2007.pptx.pdf)
+---
 
-Extra.
+### 🧭 Course Content Overview
 
-- DFA
+#### 🔹 Automata and Language Theory
 
-- NFA
+- **Finite Automata (FA)** and **Regular Expressions**
+  - DFA, NFA, and their Equivalence
+  - Regular Expressions ↔ DFA
+  - DFA Minimization
+  - Closure, Decision Properties
+  - Pumping Lemma for Regular Languages
 
-- Regular Expression
+📄 [Lecture 01: Automata Theory, Grammars and Languages](./slides/Lecture%2001.ppt.pdf)  
+📄 [Lecture 02: DFA and NFA](./slides/Lecture%2002.pptx.pdf)  
+📄 [Lecture 03: Equivalence of DFA & NFA](./slides/Lecture%2003.pptx.pdf)  
+📄 [Lecture 04: Regular Expressions and DFAs](./slides/Lecture%2004.ppt.pdf)  
+📄 [Lecture 05: Regular Expression](./slides/Lecture%2005.pptx.pdf)  
+📄 [Lecture 07: Automata Theory](./slides/Lecture%2007.pptx.pdf)  
+📄 [Lecture 08: DFA Minimization](./slides/Lecture%2008.pdf)  
+📄 [Lecture 09: Pumping Lemma](./slides/Lecture%2009.pptx.pdf)
 
-### Computability Theory:
+- **Finite Automata with Output**
+  - Mealy and Moore Machines
 
-    Turing Machines, Computation
-    with Turing Machines, Church-Turing Hypothesis, Recursive and
-    Recursively Enumerable Languages and their properties, Equivalence of
-    Unrestricted Grammars and Turing Machines,
-    Context Sensitive
-    Languages and Linear Bounded Automata;
+📄 [Moore and Mealy Machines](./slides/Moore%20and%20Mealy%20Machines.pdf)
 
-### Complexity Theory:
+- **Context-Free Grammars (CFGs) and Languages (CFLs)**
+  - Chomsky and Greibach Normal Forms
+  - Pushdown Automata (PDA) ↔ CFGs
+  - Pumping Lemma for CFLs
+  - CYK Algorithm
+  - Closure and Decision Properties
 
-    Time Complexity: P, NP, NP Completeness - Cook’s Theorem, Polynomial Time
-    Reduction and NP Complete Problems, Approximation Algorithms; Space Complexity: Savitch’s Theorem, PSPACE and PSPACE complete, L, NL;
-    Hierarchy Theorems; Probabilistic Algorithms and the class BPP.
+📄 [Lecture 10: CFG](./slides/Lecture%2010.pptx.pdf)  
+📄 [Lecture 11: CNF](./slides/Lecture%2011.pdf)  
+📄 [Lecture: CNF & GNF](./slides/CNF%20_%20GNF.ppt.pdf)  
+📄 [Lecture 12: CYK Algorithm](./slides/Lecture%2012.ppt.pdf)  
+📄 [Pushdown Automata](./slides/PDA.ppt.pdf)
 
-#### Course Outline
+---
 
-![sy1](../extra/sy2.png)
-![sy2](../extra/sy3.png)
+#### 🔹 Computability Theory
+
+- **Turing Machines** and their computation
+- Church-Turing Hypothesis
+- Recursive vs. Recursively Enumerable Languages
+- Unrestricted Grammars ↔ Turing Machines
+- Context-Sensitive Languages & Linear Bounded Automata (LBA)
+
+📄 [Turing Machine](./slides/Turing%20Machine.pptx)
+
+---
+
+#### 🔹 Complexity Theory
+
+- **Time Complexity Classes**
+
+  - P, NP, NP-Completeness
+  - Cook’s Theorem
+  - Polynomial-Time Reduction
+  - Approximation Algorithms
+
+- **Space Complexity**
+
+  - Savitch’s Theorem
+  - PSPACE, L, NL, PSPACE-Complete
+
+- **Advanced Topics**
+  - Hierarchy Theorems
+  - Probabilistic Algorithms (BPP)
+
+---
+
+### 🧾 Course Outline Preview
+
+<img src="../extra/sy2.png" alt="Course Syllabus" width="100%" style="border:1px solid #ccc; border-radius:10px; margin-top:10px;">  
+<img src="../extra/sy3.png" alt="Course Syllabus" width="100%" style="border:1px solid #ccc; border-radius:10px; margin-top:10px;">
+
+---

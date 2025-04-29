@@ -1,73 +1,96 @@
-## CSE-2102: Object Oriented Programming
+## 🧑‍🏫 **CSE-2102: Object Oriented Programming**
 
-Course Teacher
+### 👨‍🏫 **Course Teacher**  
+**MD. TOHIDUL ISLAM**  
+*Associate Professor, Department of CSE, University of Rajshahi*
 
-- MD. TOHIDUL ISLAM, ASSOCIATE PROFESSOR, Dept of CSE, University of Rajshahi
+---
 
-Reference Books
+### 📘 **Reference Book**  
+- **Java™ The Complete Reference** – *Herbert Schildt, Ninth Edition*
 
-- Java™ The Complete Reference, Herbert Schildt, Ninth Edition
+---
 
-##
+### 📚 **Course Content Overview**
 
-### Introduction:
+#### 🔹 **Introduction:**
+- **Key Concepts**:  
+  - Overview of Object Oriented Programming (OOP)  
+📄 [**Introduction**](./slides/Lecture_1.pdf)
 
-    Object oriented programming overview.
+---
 
-[Introduction](./slides/Lecture_1.pdf)
+#### 🔹 **Object Oriented Concepts:**
+- **Key Concepts**:  
+  - Modeling problems using OOP concepts  
+  - Introduction to UML (Unified Modeling Language)  
+  - Core OOP principles: Encapsulation, Inheritance, Polymorphism  
+  - Comparison: Object-Oriented vs Procedural programming  
+  - Basics of Object-Oriented programming language  
+📄 [**OOP Analysis**](./slides/Lecture_2.pdf)
 
-### Object Oriented Concepts:
+---
 
-    Modeling problems using object oriented concepts.
-    Introduction to UML. Encapsulation, Inheritance and Polymorphism.
-    Object Oriented vs. Procedural programming, Basics of Object Oriented
-    Programming language.
+#### 🔹 **Objects and Classes:**
+- **Key Concepts**:  
+  - Attributes and functions  
+  - Constructors and destructors  
+  - Methods: overloading, access control  
+  - Special considerations in different programming languages  
+📄 [**OOP Concept**](./slides/Lecture_6-Basic%20Conecpts%20and%20Features%20of%20OOP.pdf)
 
-[OOP Analysis](./slides/Lecture_2.pdf)
+---
 
-### Objects and Classes:
+#### 🔹 **I/O:**
+- **Key Concepts**:  
+  - Working with streams and files in OOP
 
-    Attributes and functions,
-    constructors and destructors, functions or methods, overloading
-    methods, access control, special considerations in different
-    languages.
+---
 
-[OOP Concept](./slides/Lecture_6-Basic%20Conecpts%20and%20Features%20of%20OOP.pdf)
+#### 🔹 **Inheritance:**
+- **Key Concepts**:  
+  - Inheriting classes: subclass, superclass  
+  - Access control, inheritance hierarchy  
+  - Overriding, dynamic binding  
+  - Abstract classes, inner classes  
+  - Multiple inheritance, interfaces  
+  - Special considerations in different programming languages
 
-### I/O:
+---
 
-    Stream and files.
+#### 🔹 **Exception and Exception Handling:**
+- **Key Concepts**:  
+  - Fundamentals of exception handling  
+  - Types of exceptions: chained exception, custom exception subclasses
 
-### Inheritance:
+---
 
-    Inheriting classes,
-    subclass, super class, access control, inheritance hierarchy,
-    overriding, dynamic binding, abstract class, inner classes, special
-    considerations in different languages, multiple
-    inheritance, interface.
+#### 🔹 **Generics or Templates:**
+- **Key Concepts**:  
+  - Special considerations in different programming languages regarding generics/templates
 
-### Exception and exception handling:
+---
 
-    Exception handling
-    fundamentals, exception types, chained exception, creating own
-    exception subclasses.
+#### 🔹 **Package/Namespace:**
+- **Key Concepts**:  
+  - Understanding and implementing packages/namespaces
 
-### Generics or Templates:
+---
 
-    Special considerations in different languages.
+#### 🔹 **Object-Oriented Design Principles and Examples:**
+- **Key Concepts**:  
+  - Introduction to object-oriented design principles  
+  - Practical examples of object-oriented design
 
-### Package/Namespace:
+---
 
-    Understanding and
-    implementing package/namespace.
+#### 🔹 **Case Study using Object-Oriented Programming:**
+- **Key Concepts**:  
+  - Application of OOP in case studies
 
-### Object-oriented Design Principles and examples:
+---
 
-    Introduction to object-oriented design principles and
-    examples, introduction to object-oriented design.
-
-### Case Study using Object Oriented Programming.
-
-#### Course Outline
-
+### 📝 **Course Outline**  
 ![sy1](../extra/sy2.png)
+
+---

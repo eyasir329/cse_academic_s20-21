@@ -1,6 +1,6 @@
 # CSE Academic Series
 
-**Session: 2020-2021** Dept. of CSE, NeU(SHU)
+**Session: 2020-2021** Dept. of CSE, NeU (previously SHU)
 
 This repository include all my notes and details during i take undergraduate in computer science and engineering..
 

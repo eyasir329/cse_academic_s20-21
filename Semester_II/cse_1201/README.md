@@ -1,125 +1,144 @@
-## CSE-1201: Fundamentals of Programming
+## 💻 CSE-1201: Fundamentals of Programming
 
-Course Teacher
+### 👩‍🏫 Course Teacher  
+**Mala Rani Barman**  
+Lecturer, Department of CSE, Sheikh Hasina University
 
-- Mala Rani Barman, Lecturer, Dept. of CSE,
-  Sheikh Hasina University
+---
 
-Reference Books
+### 📚 Reference Book  
+**Schaum's Outline: Programming with C (Second Edition)**
 
-- SCHAUM'S OUTLINE PROGRAMMING WITH C, Second Edition
+---
 
-##
+## 🧭 Course Outline & Resources
 
-### Review of Basics:
+### 🔹 Review of Basics
+- Basic I/O  
+- Data Types  
+- Conditional Logic & `switch`  
+- Characters, ASCII, Reading/Writing Characters  
+- Integer ↔ Character Conversion  
+📄 [Introduction](./slides/Lecture%201.pdf)  
+📄 [Compilation Process, Variables](./slides/Lecture%202.pdf)
 
-    Basic I/O, Data Type, Conditional Logic, Switch
-    Case, Character, ASCII Value, Reading and Writing Character, Integer
-    to Character Conversion.
+---
 
-[Introduction](./slides/Lecture%201.pdf)
+### 🔹 Operators
+- Arithmetic, Relational, Logical, Bitwise Operators  
+- Operator Precedence & Associativity  
+- Expression Evaluation  
+- Shortcut Operators  
+📄 [Operators](./slides/Lecture%203.pdf)  
+📄 [Conditions](./slides/Lecture%204.pdf)
 
-[Compilation process, Variable](./slides/Lecture%202.pdf)
+---
 
-### Operators:
+### 🔹 Loops
+- Basics of Looping  
+- `while`, `for`, `do-while`  
+- Loop Initialization & Incrementation  
+- Entry & Exit Controlled Loops  
+- Problem Formulation Using Loops  
+📄 [Loops](./slides/Lecture%205.pdf)
 
-    Arithmetic, Relational, Logical
-    and Bitwise Operators, Operator Precedence and Associativity,
-    Arithmetic Expression Evaluation, Short Cut Operator.
+---
 
-[Operator](./slides/Lecture%203.pdf)
+### 🔹 Functions – I
+- Basic & `void` Functions  
+📄 [Functions](./slides/Lecture%206.pdf)
 
-[Conditions](./slides/Lecture%204.pdf)
+---
 
-### Functions–I:
+### 🔹 Formatted I/O
+- Format Specifiers in `printf()` and `scanf()`  
+- Width Specification
 
-    Basic Functions, Void Functions with No Parameters.
+---
 
-[Functions](./slides/Lecture%206.pdf)
+### 🔹 Nested Loops
+- Nesting Two or More Loops  
+- Nested Independent Loops  
+- Examples & Use Cases
 
-### Loops:
+---
 
-    Looping Basic, Necessity of Loops, While Loop, Loop Condition, Body,
-    Initialization, Increment, For Loops, Part of For Loops, Do While
-    Loop, Entry Controlled Loops, Exit Controlled Loops, Example,
-    Formulating Problems Using Loops.
+### 🔹 Functions – II
+- Functions with Return Values  
+- Parameters, Local & Global Variables  
+- Call by Value  
+- Header Files & Library Functions
 
-[Loops](./slides/Lecture%205.pdf)
+---
 
-### Formatted I/O:
+### 🔹 Arrays
+- Declaration, Initialization, Access  
+- 1D, 2D & Multidimensional Arrays  
+- Looping with Arrays  
+📄 [Arrays](./slides/array.pdf)  
+📄 [2D Arrays](./slides/Two%20Dimentional%20Array.pdf)
 
-    Specifying Width using Format Specifier in printf and
-    scanf in Details.
+---
 
-### Nested Loop:
+### 🔹 Functions – III
+- Passing Arrays to Functions  
+- Call by Reference  
+- Recursion  
+- Variable Scope & Lifetime
 
-    Nesting of Two Loops, Example, Nesting of Independent Loops inside
-    One, Example, Nesting of More Than Two Loops.
+---
 
-### Functions – II:
+### 🔹 Strings
+- String Basics, I/O  
+- Manual String Operations  
+- Character Arrays vs Strings  
+📄 [Strings](./slides/String.pdf)
 
-    Functions with Return Type and Trivial Parameters, Local and Global
-    Variables, Call by Value, Library Functions/Header Files Concept.
+---
 
-### Arrays:
+### 🔹 String Library
+- Length, Compare, Concatenate  
+- Substring & Reverse
 
-    Basics of Array, Necessity, Declaration, Accessing through
-    Indices, Accessing using Loops, Initialization, Example, Two
-    Dimensional Arrays, Declaration, Initialization, Accessing through
-    Loops, Example, Multidimensional Arrays, Example.
+---
 
-[Array](./slides/array.pdf)
+### 🔹 Structures
+- Structure Basics  
+- Declaration, Initialization, Array of Structures  
+📄 [Structures](./slides/Structure.pdf)
 
-[2D Array](./slides/Two%20Dimentional%20Array.pdf)
+---
 
-### Functions – III:
+### 🔹 Pointers
+- Basics & Pointer Arithmetic  
+- Call by Reference  
+- Pointers with Arrays (1D/2D/3D), Structures  
+- Function Returning Pointer  
+📄 [Pointers](./slides/Pointer.pdf)
 
-    Passing Arrays in a Function as Parameter, Call by Reference,
-    Recursion, Scope Visibility and Lifetime of Variable.
+---
 
-### Strings:
+### 🔹 Dynamic Memory Allocation
+- `malloc`, `calloc`, `realloc`, `free`  
+- Uses & Implementation
 
-    Basics, Difference between String and Character Array, I/O, Basic
-    Operations without using Library Functions, Array of Strings.
+---
 
-[Strings](./slides/String.pdf)
+### 🔹 File Operations
+- File I/O, Opening/Closing  
+- Redirect Operators  
+📄 [File Handling](./slides/File%20Handling.pptx.pdf)
 
-### String Library:
+---
 
-    Basic String Operations, Length, Compare, Concatenate,
-    Substring, Reverse.
+### 🔹 Preprocessors & Macros
+- Macros, `#define`, `#include`, Conditional Compilation  
+📄 [C Preprocessor](./slides/C%20Preprocessor.pdf)
 
-### Structures:
+---
 
-    Basics, Necessity, Declaration,
-    Accessing, Initialization, Array of structures.
+## 🗂️ Syllabus Preview
 
-[Structures](./slides/Structure.pdf)
+<img src="../extra/sy1.png" width="70%">
 
-### Pointers:
-
-    Basics, Uses, Pointer Operation, Call by Reference
-    using Pointers, Pointer
-    for 1D/2D/3D Array, Structure, Pointer Expression, Array of Pointers,
-    Function Returning Pointers.
-
-[Pointer](./slides/Pointer.pdf)
-
-### Dynamic Memory Allocation:
-
-    Basics, Uses, Malloc, Free, Calloc, Realloc.
-
-### File Operation:
-
-    Basics, Uses, File Opening, Closing, File I/O, Use
-    of Redirect Operator to Write in File or Read from File.
-
-[File Handling](./slides/File%20Handling.pptx.pdf)
-
-### Preprocessors and Macros.
-
-[C Preprocessor](./slides/C%20Preprocessor.pdf)
-
-#### Syllabus Preview
-
-![sy](../extra/sy1.png)
+---

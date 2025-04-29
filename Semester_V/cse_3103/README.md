@@ -1,53 +1,75 @@
-## CSE-3103: Microprocessor & Microcontroller
+## 🔌 CSE-3103: Microprocessor & Microcontroller
 
-Course Teacher
+### 👨‍🏫 Course Teacher  
+**Dr. Md. Jahirul Islam**  
+*Associate Professor*, Dept. of Physics, RUET
 
-- Dr. Md. Jahirul Islam, Associate Professor<br>Dept. of Physics, RUET
+---
 
-Reference Books
+### 📚 Reference Book  
+- **_Microprocessor Architecture, Programming and Applications with the 8085_**, 5th Edition – *Ramesh S. Gaonkar*
 
-- Microprocessor Architecture Programming And Applications With the 8085, (Fifth Edition) by Ramesh S.Gaonkar
+---
 
-##
+### 📒 Class Resources  
+- [🗂️ Class Notes & Slides (Google Drive)](https://drive.google.com/file/d/1RWVoL-Cnb1V_ucFILOiPPiH2g1SV-eeR/view?usp=drive_link)
 
-### Evolution of microprocessor
+---
 
-### 8086 Microprocessor:
+### 🧭 Course Content Overview
 
-    architecture,
-    instruction sets, interrupts and 8259A, higher versions of 8086
-    (80286, 80386, 80486).
+#### 🔹 Evolution of Microprocessors  
+A brief history and development of microprocessor technologies.
 
-### Pentium Microprocessor:
+---
 
-    architecture, register
-    sets, cache, floating point operations, addressing modes, paging,
-    instruction set, opcode, interrupt, protected mode operations.
+#### 🔹 8086 Microprocessor  
+- Architecture  
+- Instruction Set  
+- Interrupts and 8259A  
+- Advanced Versions: 80286, 80386, 80486
 
-[Processor, Cache](./slides/Processor.pptx)<br>
+---
 
-### Next Generation Microprocessors :
+#### 🔹 Pentium Microprocessor  
+- Architecture and Register Sets  
+- Cache and Floating Point Operations  
+- Addressing Modes and Paging  
+- Instruction Set, Opcode, Interrupts  
+- Protected Mode Operations  
+📄 [Processor & Cache](./slides/Processor.pptx)
 
-    Intel Core architecture, Intel dual
-    core, core 2 duo, core 2 quad, core i3, core i5, core i7, mobile
-    microprocessors, ARM, helio, atom.
+---
 
-### Microcontrollers:
+#### 🔹 Next Generation Microprocessors  
+- Intel Architectures: Dual Core, Core 2 Duo, Core i3/i5/i7  
+- Mobile Microprocessors  
+- ARM, Helio, Atom
 
-    Microcontroller
-    & embedded systems, 8051 microcontroller architecture, operation and
-    instruction set, memory and I/O interfacing, interfacing to external
-    devices.
+---
 
-[Microcontroller, Computer Peripherals and Interfacing](./slides/Lecture%201.pptx)<br>
-[Microcontroller Note](./slides/Lecture%201%20docx.pdf)
+#### 🔹 Microcontrollers  
+- Embedded Systems and 8051 Architecture  
+- Operation & Instruction Set  
+- Memory and I/O Interfacing  
+- Interfacing with External Devices  
+📄 [8051 & Computer Peripherals](./slides/Lecture%201.pptx)  
+📄 [Microcontroller Notes (DOCX)](./slides/Lecture%201%20docx.pdf)  
+📄 [AVR Family](./slides/Lecture%202.pptx)  
+📄 [Serial Communication](./Serial%20Communication/Lecture%208.pdf)
 
-### Programmable Logic Controller (PLC):
+---
 
-    Basic Structures, I/O,
-    Programming, Mnemonics and Timers, Relays and Counters, Master and
-    Jump control, Data Control, Analog I/O Control.
+#### 🔹 Programmable Logic Controller (PLC)  
+- Basic Structure and I/O  
+- Programming, Mnemonics, Timers  
+- Relays, Counters, Master Control  
+- Jump, Data & Analog I/O Control  
+📄 [PLC Programming](./slides/Lecture%203.pptx)
 
-#### Syllabus Preview
+---
 
-![details](./../extra/sy2.png)
+### 🧾 Syllabus Preview  
+<img src="./../extra/sy2.png" alt="Syllabus Preview" width="100%" style="border:1px solid #ccc; border-radius:10px; margin-top:10px;">
+
+---

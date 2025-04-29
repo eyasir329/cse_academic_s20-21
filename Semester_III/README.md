@@ -1,34 +1,42 @@
-## Semester III (2nd Year 1st Semester)
+## 🎓 Semester III — 2nd Year 1st Semester
 
-- [CSE-2101: Data Structures and Algorithms](./cse_2101/)
-- [CSE-2102: Object Oriented Programming](./cse_2102/)
-- [EEE-2103: Electronic Devices and Circuits](./eee_2103/)
-- [GED-2104: Bangladesh Studies](./ged_2104/)
-- [MATH-2105: Linear Algebra](./math_2105/)
-- CSE-2111: Data Structures and Algorithms Lab
+### 📘 Theory Courses
 
-  What a learn in DSA, all documented here in
-  [DSA A-Z](https://github.com/eyasir329/DSA) this repository.
+- 🔗 [**CSE-2101: Data Structures and Algorithms**](./cse_2101/)
+- 🔗 [**CSE-2102: Object Oriented Programming**](./cse_2102/)
+- 🔗 [**EEE-2103: Electronic Devices and Circuits**](./eee_2103/)
+- 🔗 [**GED-2104: Bangladesh Studies**](./ged_2104/)
+- 🔗 [**MATH-2105: Linear Algebra**](./math_2105/)
 
-  Also I make a project called [Parking Lot Management](https://github.com/eyasir329/parking_lot_management) using c programming with the help of DSA.
+---
 
-- CSE-2112: Object Oriented Programming Lab
+### 🧪 Lab Courses
 
-      As a part of this lab, I learn Java Programming Languages.
+- **CSE-2111: Data Structures and Algorithms Lab**  
+  🧠 Learned core DSA concepts — all documented in:  
+  🔗 [DSA A-Z GitHub Repository](https://github.com/eyasir329/DSA)  
+  🏗️ *Project:* Built a [**Parking Lot Management System**](https://github.com/eyasir329/parking_lot_management) using C programming and DSA techniques.
 
-  [Java Programming BootCamp](https://github.com/eyasir329/java_bootcamp)
+- **CSE-2112: Object Oriented Programming Lab**  
+  ☕ Learned **Java Programming Language**  
+  🔗 [Java Programming Bootcamp](https://github.com/eyasir329/java_bootcamp)  
+  🏗️ *Project:* Developed [**Object Detection using Image Processing in Java**](https://github.com/eyasir329/image_processing_using_java) using the <code>Random Forest</code> library.
 
-  Also I make a OOP Project called [Object Detection using image processing in java](https://github.com/eyasir329/image_processing_using_java) with the help of <code>Random Forest</code> Library.
+- 🔗[**EEE-2113: Electronics Devices and Circuits Lab**](./eee_2113/)
 
-- EEE-2113: Electronics Devices and Circuits Lab
+---
 
-### Course Outline:
+### 📄 Course Outline Preview
 
-![semester3](./extra/outline.png)
+<img src="./extra/outline.png" alt="Semester 3 Outline" style="width:100%; border-radius:12px; border:1px solid #ccc; margin-top:10px;">
 
-### Details Syllabus of my Third semester:
+---
 
-![sy1](./extra/sy1.png)
-![sy2](./extra/sy2.png)
-![sy3](./extra/sy3.png)
-![sy4](./extra/sy4.png)
+### 📚 Detailed Syllabus Snapshots
+
+<img src="./extra/sy1.png" alt="Syllabus 1" style="width:100%; border-radius:12px; border:1px solid #ccc; margin-top:10px;">
+<img src="./extra/sy2.png" alt="Syllabus 2" style="width:100%; border-radius:12px; border:1px solid #ccc; margin-top:10px;">
+<img src="./extra/sy3.png" alt="Syllabus 3" style="width:100%; border-radius:12px; border:1px solid #ccc; margin-top:10px;">
+<img src="./extra/sy4.png" alt="Syllabus 4" style="width:100%; border-radius:12px; border:1px solid #ccc; margin-top:10px;">
+
+---

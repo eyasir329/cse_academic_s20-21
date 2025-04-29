@@ -1,72 +1,100 @@
-## EEE-1202: Digital Logic Design
+## 🔌 EEE-1202: Digital Logic Design
 
-Course Teacher
+### 👨‍🏫 Course Teacher
 
-- Md. Anwarul Islam, Lecturer, Dept. of CSE,
-  Sheikh Hasina University
+**Md. Anwarul Islam**  
+Lecturer, Department of CSE, Sheikh Hasina University
 
-Reference Books
+---
 
-- Digital Logic & Computer Desgin by (M.MORRIS MANO)
+### 📚 Reference Book
 
-##
+**Digital Logic & Computer Design**  
+_by M. Morris Mano_
 
-### Introduction:
+---
 
-    Introductory Concepts, Binary, Octal and Hexadecimal
-    Number System BCD, ASCH and EBCDIC Codes,
+## 🧭 Course Outline & Resources
 
-[Number Systems](./slides/Lecture%20slide%201.pdf)
+### 🔹 Introduction
 
-### Combinatorial Logic:
+- Binary, Octal, Hexadecimal Number Systems
+- BCD, ASCII, EBCDIC Codes  
+  📄 [Number Systems](./slides/Lecture%20slide%201.pdf)
 
-    Data Representation Logic Gates and Boolean Algebra, Combinational
-    Circuits Design using NAND of NOR Gates Only. Introduction to
-    Decision Diagram, Minimization of Switching Functions Algebraic
-    Simplification, Karnaugh Map, VEKM, Quince McCluskey Method.
+---
 
-[Logic Gates](./slides/Lecture%20slide%202.pdf)
+### 🔹 Combinatorial Logic
 
-### Sequential Logic:
+- Data Representation
+- Logic Gates & Boolean Algebra
+- Combinational Circuit Design with NAND/NOR only
+- Decision Diagrams
+- Minimization:
+  - Algebraic Simplification
+  - Karnaugh Map (K-map), VEKM
+  - Quine–McCluskey Method  
+    📄 [Logic Gates](./slides/Lecture%20slide%202.pdf)
 
-    NAND and NOR Latches. Clocked SR. JK D and T Flip -
-    Flops. FF Timing Consideration. Master- Slave FF.
+---
 
-[Sequential Circuits](./slides/sequential%20circuit.pdf)
+### 🔹 Sequential Logic
 
-### Complex Sequential logic:
+- Latches (NAND & NOR)
+- Flip-Flops: SR, JK, D, T
+- Timing Considerations
+- Master-Slave Flip-Flops  
+  📄 [Sequential Circuits](./slides/sequential%20circuit.pdf)
 
-    Frequency Division and Counting Troubleshooting Case Studies.
-    Asynchronous Ripple Up and Down Counters, Counters with Any MOD
-    Numbers Asynchronous IC Counters, Propagation Delay. Parallel Up Down
-    and Up/Down Counters. Presentable Counters. The 74193 Counter.
-    Decoding a Counter. Cascading Counters. Shift Registers, IC Shift
-    Digital Clock.
+---
 
-### MSI Logic Circuits:
+### 🔹 Complex Sequential Logic
 
-    BCD – to - Decimal Decoders, BCD – to - 7 Segment Decoder/Drivers. Encoders. Multiplexer and Demultiplexer.
+- Frequency Division
+- Asynchronous Ripple Counters (Up/Down, Any MOD)
+- IC Counters, Propagation Delay
+- Parallel Counters, Presettable Counters (e.g., 74193)
+- Counter Decoding, Cascading
+- Shift Registers & Applications (Digital Clock, etc.)
 
-### Integrated Circuits Logic Families:
+---
 
-    TTL Logic Family
-    Standard TTL Series Characteristics, Other TTL Series TTL Loading
-    Rules, Digital MOSFET Circuits.
+### 🔹 MSI Logic Circuits
 
-### Memory Devices:
+- BCD to Decimal Decoders
+- BCD to 7-Segment Decoder/Drivers
+- Encoders
+- Multiplexers & Demultiplexers
 
-    Semiconductor Memory
-    Technologies ROM Architecture Timing and Type of ROM, EPROM, EEPROM,
-    ROM Applications. RAM Architecture Static and Dynamic RAM, DRAM
-    Structure Operation and Refreshing. Introduction to Sequential
-    Circuits, Formal Representation of Sequential Circuits.
+---
 
-[Memory Devices](./slides/memory%20deivces.pdf)
+### 🔹 Integrated Circuit Logic Families
 
-### Arithmetic circuits:
+- TTL Logic Families
+- Standard & Other TTL Series
+- TTL Loading Rules
+- Introduction to Digital MOSFET Circuits
 
-    The Half- Adder Full Adder. Parallel Adders.
+---
 
-#### Syllabus Preview
+### 🔹 Memory Devices
 
-![sy](../extra/sy2.png)
+- Semiconductor Memory Overview
+- ROM: Architecture, Types, EPROM, EEPROM, Applications
+- RAM: Static (SRAM) and Dynamic (DRAM), Refreshing Techniques  
+  📄 [Memory Devices](./slides/memory%20deivces.pdf)
+
+---
+
+### 🔹 Arithmetic Circuits
+
+- Half Adder, Full Adder
+- Parallel Adders
+
+---
+
+## 🗂️ Syllabus Preview
+
+<img src="../extra/sy2.png" width="70%">
+
+---

@@ -1,95 +1,122 @@
-## CSE-1101: Fundamentals of Computers and Computing
+## 💻 CSE-1101: Fundamentals of Computers and Computing
 
-Course Teacher
+### 👨‍🏫 Course Teacher
 
-- Abdullah Al Shiam, Lecturer, Dept. of CSE,
-  Sheikh Hasina University, Netrokona
+**Abdullah Al Shiam**  
+Lecturer, Dept. of CSE, Sheikh Hasina University, Netrokona
 
-Reference Books
+---
 
-- **Introduction to Computers – Peter Norton** (6th Edition)
-- Computer Fundamentals – Dr. Lutfor Rahman
+### 📚 Reference Books
 
-##
+- _Introduction to Computers_ – **Peter Norton** (6th Edition)
+- _Computer Fundamentals_ – **Dr. Lutfor Rahman**
 
-### Introduction to Computer
+---
 
-    From a Key Press to Display, Hardware, Software,
-    Operating System, Microprocessor, Memory Overview, File and
-    File System.
+### 🧠 Topics Covered
 
-- [Computer Basics](./slides/Lecture%201.pdf)
-- [Generation of Computer](./slides/Lecture%202.pdf)
-- [Types of Computer](./slides/Lecture%203.pdf)
-- [Computer Organization](./slides/Lecture%204.pdf)
+#### 🖥️ Introduction to Computer
 
-### Input Output Device
+- From Key Press to Display
+- Hardware, Software
+- Operating System, Microprocessor
+- Memory Overview, File and File System
 
-- [Input Devices](./slides/Lecture%205.pdf)
-- [Output Devices](./slides/Lecture%206.pdf)
+📄 [Lecture 1: Computer Basics](./slides/Lecture%201.pdf)  
+📄 [Lecture 2: Generation of Computer](./slides/Lecture%202.pdf)  
+📄 [Lecture 3: Types of Computer](./slides/Lecture%203.pdf)  
+📄 [Lecture 4: Computer Organization](./slides/Lecture%204.pdf)
 
-### Application Software
+---
 
-    Basic Text Editor(gedit, Notepad),
-    Document Processing, Spreadsheet, Presentation, Database,
-    Mathematical Analysis, Simulation, Image and Video Editing,
-    Games etc.
+#### ⌨️🖨️ Input & Output Devices
 
-- [Hardware and Software](./slides/Lecture%207.pdf)
+📄 [Lecture 5: Input Devices](./slides/Lecture%205.pdf)  
+📄 [Lecture 6: Output Devices](./slides/Lecture%206.pdf)
 
-### Network and Internet
+---
 
-    Networking Concept and Topologies,
-    Network Addresses (MAC, IP and Port), Name vs. IP
-    (role of DNS).
+#### 🧾 Application Software
 
-- [Operating System, Computer Network](./slides/Lecture%209.pdf)
+- Text Editors (gedit, Notepad)
+- Document Processing
+- Spreadsheet, Presentation, Database
+- Mathematical Tools, Simulations
+- Media Editing, Games
 
-### Browser Software
+📄 [Lecture 7: Hardware and Software](./slides/Lecture%207.pdf)
 
-    Examples, URL, Security, Email,
-    Email Address, Email - Client Software, Email Software in the
-    Internet, Network Configuration and Basic Tools (ping, traceroute
-    etc.).
+---
 
-### Number System
+#### 🌐 Network & Internet
 
-    Concept of Bit, Electronic Representation of Bits.
+- Networking Concepts & Topologies
+- MAC, IP, and Port Addresses
+- Role of DNS
 
-- [Number System](./slides/Lecture%2011%20.pdf)
+📄 [Lecture 9: OS & Computer Network](./slides/Lecture%209.pdf)
 
-### Bit-Array
+---
 
-    Byte, Word, Double Word. Binary – to- Decimal
-    Conversion, Binary Arithmetic, Bit- Shifting, Logic Representation
-    (1-Bit, Bit-Array). Hexadecimal Arithmetic up to 32- Bit Array
-    Representation. Conversion between Binary, Hexadecimal and Octal
-    Numbers.
+#### 🌍 Browser & Email Software
 
-### Representation of Characters by Bit-Array
+- URL, Email Basics, Email Clients
+- Internet Email Configuration
+- Network Tools (ping, traceroute, etc.)
 
-    ASCII and UTF-8.
+---
 
-### Character Arithmetic
+#### 🔢 Number System
 
-    Case and Language Mapping and Changing.
+- Bit Concepts & Electronic Representation
+- Binary to Decimal Conversion
+- Binary Arithmetic, Bit Shifting
+- Binary, Octal, Hex Conversions
 
-### Memory
+📄 [Lecture 11: Number System](./slides/Lecture%2011%20.pdf)
 
-    Introduction to Computer Memory.
+---
 
-- [Computer Memory](./slides/Lecture%208.pdf)
+#### 🧮 Bit Array
 
-### System Modeling and Flow Chart
+- Byte, Word, Double Word
+- 32-bit Representation
+- Binary, Hexadecimal Arithmetic
 
-### Introduction to Programming
+---
 
-    Program Structure, Variables, Constants,
-    I/O, Conditional Statements (If- Else), More about Conditional
-    Statements (Nested If).
+#### 🔡 Character Encoding
 
-- [Introduction to Programming](./slides/Lecture%2010.pdf)
+- ASCII & UTF-8
+- Character Arithmetic
+- Case & Language Mapping
 
-#### Syllabus Preview
+---
+
+#### 🧠 Memory
+
+📄 [Lecture 8: Computer Memory](./slides/Lecture%208.pdf)
+
+---
+
+#### 🔄 System Modeling & Flowchart
+
+---
+
+#### 💻 Introduction to Programming
+
+- Program Structure
+- Variables & Constants
+- Input/Output
+- Conditional Statements (`if-else`, Nested `if`)
+
+📄 [Lecture 10: Intro to Programming](./slides/Lecture%2010.pdf)
+
+---
+
+### 🗂️ Syllabus Preview
 
 ![details](./../extra/sy1.png)
+
+---

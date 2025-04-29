@@ -1,129 +1,158 @@
-## CSE-2101: Data Structures and Algorithms
+## 🧑‍🏫 **CSE-2101: Data Structures and Algorithms**
 
-Course Teacher
+### 👨‍🏫 **Course Teacher**  
+**MD. TOHIDUL ISLAM**  
+*Associate Professor, Department of CSE, University of Rajshahi*
 
-- MD. TOHIDUL ISLAM, ASSOCIATE PROFESSOR, Dept of CSE, University of Rajshahi
+---
 
-Reference Books
+### 📘 **Reference Book**  
+- **Schaum's Outlines Data Structure** – *Seymour Lipschutz*
 
-- Schaum'S Outlines Data Structure : Seymour Lipschutz
+---
 
-##
+### 📚 **Course Content Overview**
 
-#### nus_cs1020e
+#### 🔹 **Introduction:**
+- **Key Concepts**:  
+  - Introduction to Data Structures  
+  - Idea of abstract data type  
+  - Algorithm runtime complexity (Big O notation)  
+  - Data structure space complexity  
+📄 [**nus_cs1020e L1 - Basic C++**](https://www.comp.nus.edu.sg/~stevenha/cs1020e/lectures/L1%20-%20Basic%20C++.pdf)
 
-[L1 - Basic C++](https://www.comp.nus.edu.sg/~stevenha/cs1020e/lectures/L1%20-%20Basic%20C++.pdf)
+---
 
-### Introduction:
+#### 🔹 **Array and Pointer:**
+- **Key Concepts**:  
+  - Arrays, Records, and Pointers  
+📄 [**Array and Pointer**](./slides/Chapter%204_Arrays%20Records%20and%20Pointers%20pdf.pdf)
 
-    Introduction to Data Structures, idea of abstract data
-    type, preliminary idea of algorithm runtime complexity (Big Oh
-    notation), preliminary idea of data structure space complexity.
+---
 
-[Array and Pointer](./slides/Chapter%204_Arrays%20Records%20and%20Pointers%20pdf.pdf)
+#### 🔹 **Linked List:**
+- **Key Concepts**:  
+  - Singly, doubly, circular linked lists  
+  - Basic operations (insertion, deletion, traverse)  
+  - Dynamic array and its application  
+📄 [**Linked List**](./slides/Chapter%205_Linked%20Lists.ppt)
 
-### Linked List:
+---
 
-    Singly/doubly/circular linked lists, basic operations on
-    linked list (insertion, deletion and traverse), dynamic array and its
-    application.
+#### 🔹 **Stack and Queue:**
+- **Key Concepts**:  
+  - Stack operations (push/pop/peek)  
+  - Stack-class implementation using Array and Linked List  
+  - In-fix to post-fix expression conversion and evaluation  
+  - Balancing parentheses using stack  
+  - Queue operations (enqueue, dequeue)  
+  - Circular queue and queue-class implementation  
+  - Applications: Josephus problem, palindrome checker  
+📄 [**Stack, Queue, and Recursion**](./slides/Chapter%206_Stacks%20Queue%20and%20Recursion.pdf)
 
-[Linked List](./slides/Chapter%205_Linked%20Lists.ppt)
+---
 
-### Stack and Queue:
+#### 🔹 **Recursion:**
+- **Key Concepts**:  
+  - Basic idea of recursion (3 laws: base case, self-call, move towards base case)  
+  - Tracing output of a recursive function  
+  - Applications: merge sort, permutation, combination
 
-    Basic stack operations (push/pop/peek),
-    stack-class implementation using Array and linked list, in-fix to
-    post-fix expressions conversion and evaluation, balancing parentheses
-    using stack, basic queue operations (enqueue, dequeue), circular
-    queue/ dequeue, queue-class implementation using array and linked
-    list, application- Josephous problem, palindrome checker using stack
-    and queue.
+---
 
-[Stack, Queue and Recursion](./slides/Chapter%206_Stacks%20Queue%20and%20Recursion.pdf)
+#### 🔹 **Sorting:**
+- **Key Concepts**:  
+  - Sorting algorithms: Insertion sort, selection sort, bubble sort  
+  - Advanced sorts: merge sort, quick sort (randomized), distribution sorts (counting, radix, bucket)  
+  - Lower bounds for sorting, external sort  
+📄 [**Sorting**](./slides/Sorting%20Algorithms.pptx)
 
-### Recursion:
+---
 
-    Basic idea of recursion (3 laws-base case, call
-    itself, move towards base case by state change), tracing output of a
-    recursive function, applications- merge
-    sort, permutation, combination.
+#### 🔹 **Binary Tree:**
+- **Key Concepts**:  
+  - Binary tree representation using array and pointers  
+  - Traversal: in-order, pre-order, post-order
 
-### Sorting:
+---
 
-    Insertion sort, selection sort, bubble sort,
-    merge sort, quick sort (randomized quick sort), distribution sort
-    (counting sort, radix sort, bucket sort), lower bounds for sorting,
-    external sort.
+#### 🔹 **Binary Search Tree (BST):**
+- **Key Concepts**:  
+  - BST representation  
+  - Basic operations: creation, insertion, deletion, querying, traversing  
+  - Applications: searching, sets
 
-[Sorting](./slides/Sorting%20Algorithms.pptx)
+---
 
-### Binary Tree:
+#### 🔹 **Searching:**
+- **Key Concepts**:  
+  - Linear search, binary search  
+  - Applications of Binary Search: finding an element in a sorted array, nth root of a real number, solving equations
 
-    Binary tree representation using array
-    and pointers, traversal of Binary Tree (in-order, pre-order and post-
-    order).
+---
 
-### Binary Search Tree:
+#### 🔹 **Heap:**
+- **Key Concepts**:  
+  - Min-heap, max-heap, Fibonacci-heap  
+  - Applications: priority queue, heap sort
 
-    BST representation, basic operations on
-    BST (creation, insertion, deletion, querying and traversing),
-    application- searching, sets.
+---
 
-### Searching:
+#### 🔹 **General Tree:**
+- **Key Concepts**:  
+  - General tree implementation  
+  - Applications: file system  
+📄 [**Tree**](./slides/Chapter%207_Tree.ppt)
 
-    Linear search, binary
-    Search, application of Binary Search- finding element in a sorted
-    array, finding nth root of a real number, solving equations.
+---
 
-### Heap:
+#### 🔹 **Disjoint Set:**
+- **Key Concepts**:  
+  - Union-find, path compression
 
-    Min-heap, max-heap, Fibonacci-heap, applications-priority queue, heap
-    sort.
+---
 
-### General Tree:
+#### 🔹 **Huffman Coding:**
+- **Key Concepts**:  
+  - Huffman coding implementation  
+  - Applications: compression  
+📄 [**Huffman Codes**](./slides/Huffman%20Codes.ppt)
 
-    Implementation, application of general tree- file
-    system.
+---
 
-[Tree](./slides/Chapter%207_Tree.ppt)
+#### 🔹 **Graph:**
+- **Key Concepts**:  
+  - Graph representation: adjacency matrix/list  
+  - Basic operations: node/edge insertion and deletion  
+  - Traversing a graph: breadth-first search (BFS), depth-first search (DFS)  
+  - Graph applications: bicoloring  
+📄 [**Graph and their Application**](./slides/Chapter%208_Graph%20and%20their%20Applications.ppt)
 
-### Disjoint Set:
+---
 
-    Union find, path compression.
+#### 🔹 **Self-balancing Binary Search Tree:**
+- **Key Concepts**:  
+  - AVL Tree (rotation, insertion)
 
-### Huffman Coding:
+---
 
-    Implementation, application- Compression.
+#### 🔹 **Set Operations:**
+- **Key Concepts**:  
+  - Set representation using bitmask  
+  - Operations: set/clear bit, query bit status, toggle bit values  
+  - Applications of set operations
 
-[Haffman Codes](./slides/Huffman%20Codes.ppt)
+---
 
-### Graph:
+#### 🔹 **String ADT:**
+- **Key Concepts**:  
+  - String operations: concatenation, substring extraction  
+  - Searching for a matching substring, string parsing
 
-    Graph representation
-    (adjacency
-    matrix/adjacency list), basic operations on graph
-    (node/edge insertion and deletion), traversing a graph: breadth-first
-    search (BFS), depth-first search (DFS), graph-bicoloring.
+---
 
-[Graph and their application](./slides/Chapter%208_Graph%20and%20their%20Applications.ppt)
-
-### Self-balancing Binary Search Tree:
-
-    AVL tree (rotation, insertion).
-
-### Set Operations:
-
-    Set representation using bitmask, set/clear bit, querying
-    the status of a bit, toggling bit values, LSB, application of set
-    operations.
-
-### String ADT:
-
-    The concatenation of two strings, the extraction of substrings, searching a string for a matching
-    substring, parsing.
-
-#### Course Outline
-
-![sy1](../extra/sy1.png)
+### 📝 **Course Outline**  
+![sy1](../extra/sy1.png)  
 ![sy2](../extra/sy2.png)
+
+---

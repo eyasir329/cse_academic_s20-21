@@ -1,21 +1,25 @@
-## ENG-1215: Developing English Language Skills lab
+## 📘 ENG-1215: Developing English Language Skills Lab
 
-Course Teacher
+### 👨‍🏫 Course Teacher  
+**Gopashis Biswas G. Son**  
+Lecturer, Department of English,  
+Sheikh Hasina University, Netrokona
 
-- Gopashis Biswas G.Son, Lecturer, Dept. of English,
-  Sheikh Hasina University, Netrokona
+---
 
-Reference Books
+### 📚 Reference Books
 
-- Anna Maria Malkoc - Letter Writing In English
-- Brieger Nick. - English for Business Writing
-- Communication for business by shirley taylor 4th-edition
-- Acy Jackson, Kathleen Geckeis - How to prepare Your Curriculum Vitae (2003)
-- David Evans - Business English Verbs-Pearson Elt (2000)
-- Cambridge Business Vocabulary in Use-Cambridge University Press
+- *Anna Maria Malkoc* – **Letter Writing in English**  
+- *Nick Brieger* – **English for Business Writing**  
+- *Shirley Taylor* – **Communication for Business**, 4th Edition  
+- *Acy Jackson & Kathleen Geckeis* – **How to Prepare Your Curriculum Vitae (2003)**  
+- *David Evans* – **Business English Verbs**, Pearson ELT (2000)  
+- *Cambridge University Press* – **Business Vocabulary in Use**
 
-##
+---
 
-#### Syllabus Preview
+### 📄 Syllabus Preview
 
-[details](./ENG%20COURSE%20MODULE.pdf)
+[🔗 View Full Module PDF](./ENG%20COURSE%20MODULE.pdf)
+
+---

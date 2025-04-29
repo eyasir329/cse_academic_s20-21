@@ -1,57 +1,77 @@
-## CSE-3101: Computer Networking
+## 🌐 CSE-3101: Computer Networking
 
-Course Teacher
+### 👩‍🏫 Course Teacher  
+**Mala Rani Barman**  
+*Assistant Professor*  
+Department of CSE, Sheikh Hasina University
 
-- Mala Rani Barman, Assistant Professor,<br> Dept. of CSE,
-  Sheikh Hasina University
+---
 
-Reference Books
+### 📚 Reference Books  
+- **Computer Networks**, 5th Edition – *Andrew S. Tanenbaum, David J. Wetherall*  
+- **Computer Networking: A Top-Down Approach**, 8th Edition – *James Kurose & Keith Ross*
 
-- COMPUTER NETWORKS, FIFTH EDITION by ANDREW S. TANENBAUM, DAVID J. WETHERALL
-- Computer Networking, A Top-Down Approach, James Kurose & Keith Ross, Pearson, 8th Edition
+---
 
-##
+### 🧩 Other Learning Resources  
+- 🎓 [CS 456/656: Computer Networks (University of Waterloo)](https://student.cs.uwaterloo.ca/~cs456/)  
+  📘 [Class Notes Repository](https://github.com/intergrals/CS456)  
+- 🎓 [NPTEL: Computer Networks and Internet Protocol – IIT Kharagpur](https://nptel.ac.in/courses/106105183)  
+- 📑 [Slides for This Course (Google Drive)](https://drive.google.com/file/d/1H5IbviOVWi5vXPoZ54xR035BoQeKtV96/view?usp=drive_link)
 
-Other Sources,
+---
 
-- [CS 456/656: Computer Networks (Fall 2024) Slide](https://student.cs.uwaterloo.ca/~cs456/) - [Class_Note](https://github.com/intergrals/CS456)
-- [NOC:Computer Networks and Internet Protocol, IIT Kharagpur
-  ](https://nptel.ac.in/courses/106105183)
+### 🧭 Course Content Overview
 
-### Introduction to Computer Networks:
+#### 🔹 **Introduction to Computer Networks**
+- Protocol Layers  
+- Network Performance Metrics (Delay, Loss, Throughput)  
+- Circuit Switching vs Packet Switching  
+📄 [Lecture Slide](./slides/Lec_01.pdf)
 
-    Protocol Layers, Network performance metrics (delay, loss, throughput), Circuit and Packet Switching.
+---
 
-[Introduction](./slides/Lec_01.pdf)
+#### 🔹 **Application Layer**
+- HTTP, FTP, Email, DNS, SNMP  
+- Peer-to-Peer (P2P) Networking  
+📄 [Lecture Slide](./slides/Lec_06.pdf)
 
-### Application Layer:
+**Extra DNS Resources:**  
+- [📘 DNS - IIT Kharagpur](https://manaskhatua.github.io/courses/CS321/CN_Lec6_4_DNS.pdf)  
+- [📘 DNS - CMU Lecture Notes](https://www.cs.cmu.edu/~srini/15-441/S10/lectures/13-DNS.pdf)  
+- [🌐 Cloudflare DNS Explanation](https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/)
 
-    Protocol overview of HTTP, FTP, Email, DNS, SNMP, P2P Networks.
+---
 
-[Application Layer](./slides/Lec_06.pdf)
+#### 🔹 **Transport Layer**
+- UDP and TCP  
+- Reliable Data Transfer  
+- Congestion Control (TCP Reno, Tahoe, New Reno)  
+📄 [Transport Overview](./slides/Lec_05.ppt)  
+📄 [Transport Protocols](./slides/Lec_09.pptx)
 
-extra:
+---
 
-[DNS IIT](https://manaskhatua.github.io/courses/CS321/CN_Lec6_4_DNS.pdf)<br>
-[DNS CMU](https://www.cs.cmu.edu/~srini/15-441/S10/lectures/13-DNS.pdf)<br>
-https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/ <br>
+#### 🔹 **Network Layer**
+- IPv4 and IPv6  
+- IP Addressing and NAT  
+- Routing Algorithms: RIP, OSPF, BGP  
+📄 [Network Layer Intro](./slides/Lec_02.pdf)  
+📄 [IP Addressing](./slides/Lec_03.pdf)  
+📄 [Routing Algorithms](./slides/Lec_04.ppt)
 
-### Transport Layer:
+---
 
-    Protocol overview of UDP and TCP, Reliable data transfer, Congestion Control, TCP Reno, TCP Tahoe, TCP New Reno.
+#### 🔹 **Wireless Networks**
+- Types of Wireless Networks  
+- Medium Access Control (MAC)  
+- Routing in Wireless Networks  
+- Mobility and Mobile IPv6  
+📄 [Network Security](./slides/Lec_07.ppt)
 
-### Network layer:
+---
 
-    Overview of IPv4 and IPv6, IP Addressing, NAT, Routing Algorithms (RIP, OSPF, BGP).
+### 🧾 Syllabus Preview  
+<img src="../extra/sy1.png" alt="Course Syllabus" width="100%" style="border:1px solid #ccc; border-radius:10px;">
 
-[Introduction and Network Layer](./slides/Lec_02.pdf)<br>
-[IP Addressing](./slides/Lec_03.pdf)
-
-### Wireless Networks:
-
-    Introduction to wireless networks, Types of wireless networks, Medium Access Control in wireless
-    networks, Routing in wireless networks, Mobility and Mobile IPv6.
-
-#### Syllabus Preview
-
-![sy1](../extra/sy1.png)
+---
