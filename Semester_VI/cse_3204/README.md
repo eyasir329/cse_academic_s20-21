@@ -10,6 +10,11 @@
 - **Compilers**, *Alfred V. Aho*  
 
 ---
+Extra Content:
+
+- [BracU CSE-420](https://www.youtube.com/playlist?list=PLvC1QCXXPlAVU0ZeGR8ca1X_q-j6I4kVm)
+- [IIT Madras CS-3300](https://www.youtube.com/playlist?list=PL54i8TI-dREaHgsBFNalWnz-bC9CZkOBb)
+---
 
 ### 🧩 **Course Content Overview**
 

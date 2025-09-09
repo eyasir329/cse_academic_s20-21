@@ -35,6 +35,7 @@ _by M. Morris Mano_
   - Karnaugh Map (K-map), VEKM
   - Quine–McCluskey Method  
     📄 [Logic Gates](./slides/Lecture%20slide%202.pdf)
+    - https://www.eecs.umich.edu/courses/eecs270/Lec/270L19NotesF20.pdf
 
 ---
 

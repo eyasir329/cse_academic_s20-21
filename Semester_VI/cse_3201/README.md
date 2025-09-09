@@ -17,6 +17,7 @@
 
 - 🎓 [Operating Systems - University of California, Berkeley](https://eecs.cs.berkeley.edu/ugrad/courses/eecs-120/)
 - 📑 [Slides for This Course (Google Drive)](https://drive.google.com/drive/folders/1A0F2k6m7gAl4eUGkSxDTh0DzVV-WJUQS?usp=sharing)
+- [BracU OS](https://youtube.com/playlist?list=PL9aZtK5kh5WeH1Jap1GQbbsaqb-YA19o6&si=Ru7qpl-RG_L5z7r4)
 
 ---
 
