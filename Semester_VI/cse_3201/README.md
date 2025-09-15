@@ -3,13 +3,17 @@
 ### 👨‍🏫 **Course Teacher**
 
 **Md. Mafiul Hasan Matin**  
-*Lecturer*, Dept. of CSE, Netrokona University, Netrokona
+_Lecturer_, Dept. of CSE, Netrokona University, Netrokona
 
 ---
 
 ### 📚 **Reference Books**
 
 - **Operating System Concepts**, _Abraham Silberschatz_
+
+Slides -> https://www.os-book.com/OS10/slide-dir/index.html
+
+Notes -> https://drive.google.com/file/d/1e_c7Z21eg_lKB71k-kRVcDMt2i7XSLlk/view?usp=sharing
 
 ---
 
